@@ -1,2 +1,2 @@
 # basic-python
-Messing around with Python for Harvard data science course
+Python for Harvard data science course, mostly in Jupyter Notebook
